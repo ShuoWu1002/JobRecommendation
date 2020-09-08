@@ -1,4 +1,4 @@
-# Job Recommendation
+# Job Recommendation Web App
 This project was developing a full-stack web service to improve job search and recommendation experience based on personalized information.
 Created three Java servlets with RESTful APIs to handle HTTP requests and responses.
 Designed the backend data model and created four tables (Users, Items, Keywords, and History) in MySQL.
